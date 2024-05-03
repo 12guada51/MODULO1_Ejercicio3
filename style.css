@@ -1,0 +1,44 @@
+body {
+    background-color: #F08080;
+  }
+
+<!-- Barra Lateraal-->
+  
+aside {
+    width: 15%;
+    padding-left: 1%;
+    margin-left: 1%;
+    float: left;
+    font-style: normal;
+    background-color: #CD5C5C
+    ;
+  }
+
+<!-- Textos-->
+  h1 {
+    color:white;
+    font-family: "Almarai", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+        }
+
+  h2,h3,h4,h5,h6 {
+    color: white;
+    font-family: "Almarai", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+  
+  p {
+    color: #5A2929;
+    font-family: "Almarai", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+  li {
+    color: white;
+    font-family: "Almarai", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+  }  
